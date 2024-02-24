@@ -1,3 +1,5 @@
+# The project did not use venv environment. It will be necessary to create it or install missing packages locally.
+
 # Day 08 - Python Bootcamp
 
 ## Temet Nosce
